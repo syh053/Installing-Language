@@ -6,4 +6,6 @@
 
 
 
-1. <p>進入git <a href="https://github.com/pyenv-win/pyenv-win" target="_blank">官網</a></p> 
+1. 進入 git <a href="https://github.com/pyenv-win/pyenv-win" target="_blank">官網</a>
+
+2. 
