@@ -25,7 +25,15 @@ pyenv install -l
 ```
 
 5. 運行pyenv install <version>安裝支援的版本
-6. 運行pyenv global <version>以將Python版本設定為全域版本
+```
+pyenv install <version>
+```
+
+6. 運行pyenv global <version>將指定 Python 版本設定為全域版本
+```
+pyenv global <version>
+```
+
 7. 檢查您正在使用的 Python 版本及其路徑
 ```
 pyenv version
