@@ -8,4 +8,8 @@
 
 1. 進入 git <a href="https://github.com/pyenv-win/pyenv-win" target="_blank">官網</a>
 
-2. 
+2. 複製以下指令後，到 PowerShell 執行
+
+"""
+Invoke-WebRequest -UseBasicParsing -Uri "https://raw.githubusercontent.com/pyenv-win/pyenv-win/master/pyenv-win/install-pyenv-win.ps1" -OutFile "./install-pyenv-win.ps1"; &"./install-pyenv-win.ps1"
+"""
