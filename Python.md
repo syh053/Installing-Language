@@ -34,8 +34,25 @@ pyenv install <version>
 pyenv global <version>
 ```
 
-7. 檢查您正在使用的 Python 版本及其路徑
+7. 運行pyenv local <version>將指定 Python 版本設定為區域版本，
+   指令完成後會在資料夾輸出一個 .python-version 的檔案
+```
+pyenv local <version>
+```
+
+8. 檢查您正在使用的 Python 版本及其路徑
 ```
 pyenv version
 <version> (set by \path\to\.pyenv\pyenv-win\.python-version)
 ```
+
+9. 將已安裝的套件匯出一份清單
+```
+pip freeze > requirements.txt
+```
+
+10. 安裝清單中的套件
+```
+pip -r requirements.txt
+```
+
