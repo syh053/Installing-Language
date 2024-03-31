@@ -6,12 +6,14 @@
 
 
 1. 進入 nvm <a href="https://github.com/coreybutler/nvm-windows" target="_blank">官網</a>
+___ 
 
-2. 點擊
+
+2. <p>點擊</p>
 ![image](https://ppt.cc/fnCXEx@.png)
 ___
 
-3. 點擊 nvm-setup.zip 進行下載安裝
+3. <p> nvm-setup.zip 進行下載安裝</p>
 ![image](https://ppt.cc/fTwWux@.png)
 ___
 
