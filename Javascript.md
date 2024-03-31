@@ -9,9 +9,11 @@
 
 2. 點擊
 ![image](https://ppt.cc/fnCXEx@.png)
+___
 
-3. 運行以下指令查看 pyenv 是否安裝成功
+3. 點擊 nvm-setup.zip 進行下載安裝
 ![image](https://ppt.cc/fTwWux@.png)
+___
 
 4. 打開終端機輸入 nvm version 確定安裝成功
 ```
